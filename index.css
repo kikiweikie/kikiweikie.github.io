@@ -1,0 +1,18 @@
+body {
+    background-color: white;
+}
+
+.first {
+  color: pink
+}
+.second {
+  color: #9542f4
+}
+
+
+#important {
+  font-size: 50px
+}
+.third {
+  color: black
+}
